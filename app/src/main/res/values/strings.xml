@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Zefir</string>
+
+    <!--Home-->
+    <string name="add_new_chat_text">Click to plus to create new chat</string>
+
+    <!--AddChat-->
+    <string name="add_chat_title">Add chat</string>
+    <string name="add_chat_text">Add new chat!</string>
+    <string name="name_label">Name</string>
+    <string name="user_id_label">User id</string>
+
+    <!--AddUser-->
+    <string name="add_user_title">Add user</string>
+    <string name="add_user_text">Add new user!</string>
+
+    <!--Chat-->
+    <string name="message_title">Message</string>
+
+    <!--ChatSettings-->
+    <string name="chat_settings_title">Chat settings</string>
+    <string name="chat_actions_title">Chat actions</string>
+    <string name="chat_out_title">Chat out</string>
+    <string name="delete_title">Delete</string>
+
+    <!--EditChatName-->
+    <string name="edit_chat_name_title">Edit chat name</string>
+    <string name="edit_chat_name_text">Edit name in your chat!</string>
+    <string name="chat_name_label">Chat name</string>
+    <string name="edit_title">Edit</string>
+
+    <!--Account-->
+    <string name="account_title">Account</string>
+    <string name="account_actions_title">Account actions</string>
+    <string name="sign_out_title">Sign out</string>
+
+    <!--SignIn-->
+    <string name="sign_in_title">Sign in</string>
+    <string name="sign_in_text">Sign in Zefir!</string>
+    <string name="create_account_title">Create account</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+
+    <!--CreateUser-->
+    <string name="create_user_title">Create user</string>
+    <string name="create_user_text">Create user in Zefir!</string>
+    <string name="again_password_label">Again password</string>
+
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Home-->
+    <string name="add_new_chat_text">Нажмите на плюсик, чтобы создать новый чат</string>
+
+    <!--AddChat-->
+    <string name="add_chat_title">Новый чат</string>
+    <string name="add_chat_text">Создайте новый чат!</string>
+    <string name="name_label">Имя</string>
+    <string name="user_id_label">User id</string>
+
+    <!--AddUser-->
+    <string name="add_user_title">Добавить пользователя</string>
+    <string name="add_user_text">Добавте нового пользователя!</string>
+
+    <!--Chat-->
+    <string name="message_title">Сообщение</string>
+
+    <!--ChatSettings-->
+    <string name="chat_settings_title">Настройки чата</string>
+    <string name="chat_actions_title">Действия</string>
+    <string name="chat_out_title">Выйти из чата</string>
+    <string name="delete_title">Удалить чат</string>
+
+    <!--EditChatName-->
+    <string name="edit_chat_name_title">Редактирование</string>
+    <string name="edit_chat_name_text">Редактируйте имя чата!</string>
+    <string name="chat_name_label">Имя чата</string>
+    <string name="edit_title">Редактировать</string>
+
+    <!--Account-->
+    <string name="account_title">Аккаунт</string>
+    <string name="account_actions_title">Действия аккаунта</string>
+    <string name="sign_out_title">Выйти из аккаунта</string>
+
+    <!--SignIn-->
+    <string name="sign_in_title">Sign in</string>
+    <string name="sign_in_text">Sign in Zefir!</string>
+    <string name="create_account_title">Создать аккаунт</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+
+    <!--CreateUser-->
+    <string name="create_user_title">Создание пользователя</string>
+    <string name="create_user_text">Создание пользователя в Zefir!</string>
+    <string name="again_password_label">Повторный пароль</string>
+
+</resources>
